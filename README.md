@@ -14,9 +14,8 @@ I always seek new things in this vast world of technology because of great inter
 
 ## ⚡ Social Profiles
 
-[![Linkedin Badge](https://img.shields.io/badge/-aryankush25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryankush25/)](https://www.linkedin.com/in/aryankush25/)
-[![Medium Badge](https://img.shields.io/badge/-@aryankush25-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aryankush25/)](https://medium.com/@aryankush25)
-[![Twitter Badge](https://img.shields.io/badge/-@aryankush25-15202B?style=flat-square&labelColor=white&logo=Twitter&link=https://twitter.com/aryankush25)](https://twitter.com/aryankush25)
+[![Linkedin Badge](https://img.shields.io/badge/-aryankush25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-kumar-86aa901b6/)](https://www.linkedin.com/in/amit-kumar-86aa901b6/)
+[![Twitter Badge](https://img.shields.io/badge/-@aryankush25-15202B?style=flat-square&labelColor=white&logo=Twitter&link=https://twitter.com/mitu__BishnOi)](https://twitter.com/mitu__BishnOi)
 
 ## ⚡ Technologies
 
@@ -26,7 +25,6 @@ I always seek new things in this vast world of technology because of great inter
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
@@ -44,17 +42,17 @@ I always seek new things in this vast world of technology because of great inter
 
 ## ⚡ My Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryankush25" alt="aryankush25" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmitKumar1972" alt="AmitKumar1972" /></a> </p>
 
 ## ⚡ My contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryankush25&" alt="aryankush25" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumar1972&" alt="AmitKumar1972" /></p>
 
 <!-- ## ⚡ My contributions graph
 
-[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=aryankush25&theme=redical)](https://github.com/aryankush25/github-readme-activity-graph) -->
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=AmitKumar1972&theme=redical)](https://github.com/AmitKumar1972/github-readme-activity-graph) -->
 
 
 ## ⚡ Top Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankush25&layout=compact&hide=html" alt="Aryan Agarwal Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar1972&layout=compact&hide=html" alt="Amit Kumar Top Langs" /></p>

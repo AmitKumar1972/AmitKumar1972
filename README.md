@@ -14,8 +14,8 @@ I always seek new things in this vast world of technology because of great inter
 
 ## ⚡ Social Profiles
 
-[![Linkedin Badge](https://img.shields.io/badge/-aryankush25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-kumar-86aa901b6/)](https://www.linkedin.com/in/amit-kumar-86aa901b6/)
-[![Twitter Badge](https://img.shields.io/badge/-@aryankush25-15202B?style=flat-square&labelColor=white&logo=Twitter&link=https://twitter.com/mitu__BishnOi)](https://twitter.com/mitu__BishnOi)
+[![Linkedin Badge](https://img.shields.io/badge/-AmitKumar1972-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-kumar-86aa901b6/)](https://www.linkedin.com/in/amit-kumar-86aa901b6/)
+[![Twitter Badge](https://img.shields.io/badge/-@AmitKumar1972-15202B?style=flat-square&labelColor=white&logo=Twitter&link=https://twitter.com/mitu__BishnOi)](https://twitter.com/mitu__BishnOi)
 
 ## ⚡ Technologies
 

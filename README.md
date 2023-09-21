@@ -1,6 +1,6 @@
 ### Hi there I am Amit 👋
 
-I am a Full Stack Web/Mobile Developer skilled in NodeJS, Express, Graphql, NestJs, React, Svelte, etc.
+I am a Backend Web Developer skilled in NodeJS, Express, Graphql, NestJs, React, Svelte, etc.
 
 I always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 

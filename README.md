@@ -1,11 +1,11 @@
 ### Hi there I am Amit 👋
 
-I am a Backend Web Developer skilled in NodeJS, Express, Graphql, NestJs, React, Svelte, etc.
+I am a Full Stack Developer skilled in NodeJS, Express, Graphql, NestJs, React, React Native, Svelte, Python, SQL, ORM (Sequelize, Typeorm), Mongodb etc.
 
 I always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
 
-- I’m currently a Software Developer at [@Hoi](https://hoi.in/)
+- I’m currently a Full Stack Developer at [@Hoi](https://hoi.in/)
 - How to reach me **amitgodara1008@gmail.com** or **amit.kumar@hoi.in**
 
 ## Profile Views

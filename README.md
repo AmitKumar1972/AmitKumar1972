@@ -5,9 +5,8 @@ I am a Backend Web Developer skilled in NodeJS, Express, Graphql, NestJs, React,
 I always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
 
-- I’m currently a Software Developer at [@GlueLabs](https://gluelabs.com/)
-- Backend Developer at [@FIFOim](https://fifo.im/)
-- How to reach me **amitgodara1008@gmail.com** or **amitk@gluelabs.com**
+- I’m currently a Software Developer at [@Hoi](https://hoi.in/)
+- How to reach me **amitgodara1008@gmail.com** or **amit.kumar@hoi.in**
 
 ## Profile Views
 <img align="left" src = "https://profile-counter.glitch.me/AmitKumar1972/count.svg" alt ="Loading"> <br>
